@@ -6,7 +6,7 @@ Passionate data science student📊
  
 🎓 B.E. in Computer Science & Engineering
 
-🏛️ GH Raisoni College of Engineering, Nagpur 🌍
+🏛️ College= GH Raisoni College of Engineering, Nagpur 🌍
 
 🔍 Passionate about turning data into insights | 
 
