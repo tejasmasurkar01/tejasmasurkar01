@@ -2,7 +2,7 @@
 
 Passionate data science student📊
 
-🔬 with a thirst for knowledge and a love for turning data into actionable insights.
+🏫 Education
  
 🎓 B.E. in Computer Science & Engineering
 
