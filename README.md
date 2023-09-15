@@ -1,7 +1,13 @@
-👋 Hi there! I'm Tejas Masurkar, a passionate data science student📊🔬 with a thirst for knowledge and a love for turning data into actionable insights.
+👋 Hi there! I'm Tejas Masurkar, 
+
+Passionate data science student📊
+
+🔬 with a thirst for knowledge and a love for turning data into actionable insights.
  
 🎓 B.E. in Computer Science & Engineering
+
 🏛️ GH Raisoni College of Engineering, Nagpur 🌍
+
 🔍 Passionate about turning data into insights | 
 
 🧠 Currently honing my skills in:
