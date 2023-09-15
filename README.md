@@ -1,6 +1,6 @@
-👋 Hi there! I'm Tejas Masurkar, a passionate data science student 📊🔬 with a thirst for knowledge and a love for turning data into actionable insights.
-
-📊 Aspiring Data Scientist | 🎓 B.E. in Computer Science & Engineering
+👋 Hi there! I'm Tejas Masurkar, a passionate data science student📊🔬 with a thirst for knowledge and a love for turning data into actionable insights.
+ 
+🎓 B.E. in Computer Science & Engineering
 🏛️ GH Raisoni College of Engineering, Nagpur 🌍
 🔍 Passionate about turning data into insights | 
 
@@ -16,6 +16,8 @@
 - Data-driven Decision Making 📉
 
 🔍 Exploring the world of data one dataset at a time, I believe in the power of data to solve real-world problems and drive innovation. Let's connect, learn, and build together! 💡
+
+📑 PortFolio - https://tejas-masurkar-digital-cv.onrender.com/
 
 📫 Reach out to me:
 - 📧 Email: tejasmasurkar01@gmail.com
